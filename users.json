@@ -1,33 +1,35 @@
-{
-    "id":1,
-    "name":"maks strolilo",
-    "status":"i`m developer",
-    "friend":true,
-    "img":"https://www.imgworlds.com/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg",
-    "place":{
-       "city":"Kyiv",
-       "country":"Ukraine"
+[
+  {
+    "id": 1,
+    "name": "maks strolilo",
+    "status": "i`m developer",
+    "friend": true,
+    "img": "https://www.imgworlds.com/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg",
+    "place": {
+      "city": "Kyiv",
+      "country": "Ukraine"
     }
- },
- {
-    "id":2,
-    "name":"Sasha Kobec",
-    "status":"i`m cool",
-    "friend":true,
-    "img":"https://www.imgworlds.com/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg",
-    "place":{
-       "city":"Bila Cherkva",
-       "country":"Ukraine"
+  },
+  {
+    "id": 2,
+    "name": "Sasha Kobec",
+    "status": "i`m cool",
+    "friend": true,
+    "img": "https://www.imgworlds.com/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg",
+    "place": {
+      "city": "Bila Cherkva",
+      "country": "Ukraine"
     }
- },
- {
-    "id":3,
-    "name":"Vasya",
-    "status":"i`m xz",
-    "friend":false,
-    "img":"https://www.imgworlds.com/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg",
-    "place":{
-       "city":"Chopa",
-       "country":"Chopa"
+  },
+  {
+    "id": 3,
+    "name": "Vasya",
+    "status": "i`m xz",
+    "friend": false,
+    "img": "https://www.imgworlds.com/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg",
+    "place": {
+      "city": "Chopa",
+      "country": "Chopa"
     }
- }
+  }
+]
