@@ -26,7 +26,7 @@
     "name": "Vasya",
     "status": "i`m xz",
     "friend": false,
-    "img": "https://www.imgworlds.com/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg",
+    "img": null,
     "place": {
       "city": "Chopa",
       "country": "Chopa"
